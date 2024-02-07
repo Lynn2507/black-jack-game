@@ -1,0 +1,43 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+    background-size: cover;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#sentence {
+    color: white;
+}
+
+h1 {
+    color:goldenrod;
+}
+
+#question-text {
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    width: 150px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+}
+
+
+#stack-buttons {
+    text-align: center;
+}
+
+#sum-text{
+    color: white;
+}
